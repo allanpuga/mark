@@ -1,0 +1,16 @@
+reflex-google-auth
+pymongo
+geoalchemy2>=0.18
+reflex==0.8.26
+google-genai
+pymysql>=1.1.2
+httpx
+cryptography>=46
+google-auth
+requests
+aiomysql>=0.2.0
+PyGithub
+bcrypt
+fastapi
+openpyxl
+reflex-enterprise
